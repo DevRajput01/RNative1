@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -81,3 +82,6 @@ To learn more about React Native, take a look at the following resources:
 =======
 # MovieFetch__ReactNative
 >>>>>>> 3fe507a457414fa31ecebf401d55eb2395aafeb2
+=======
+# RNative1
+>>>>>>> 443af854bdd6a7feab8568988b7e08dec516240d
