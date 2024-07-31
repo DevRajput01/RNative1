@@ -2,6 +2,10 @@
 ## (API)
 
 
+![home1](https://github.com/user-attachments/assets/128906c0-037d-47de-86bf-3270cf23e20a)  ![happy1](https://github.com/user-attachments/assets/0ad2fe90-e1b4-436a-813f-2594678871b8)
+
+
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
